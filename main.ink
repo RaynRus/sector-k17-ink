@@ -10,7 +10,7 @@ VAR station1Done = false
 VAR station2Done = false
 
  // ТОЧКА ВХОДА
--> briefing
+-> station_1
 
 
  // =========================================
